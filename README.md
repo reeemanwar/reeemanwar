@@ -12,7 +12,7 @@ I'm an aspiring business analyst and have worked on projects<br>using the follow
 ![](https://nirzak-streak-stats.vercel.app/?user=reemanwar&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemanwar&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Daily Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
